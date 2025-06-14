@@ -11,7 +11,7 @@ plotly
 
 # Modélisation
 scikit-learn
-xgboost
+#xgboost
 tensorflow
 keras
 
