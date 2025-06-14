@@ -1,18 +1,10 @@
-# requirements.txt
 
-# Manipulation de données
-pandas
-numpy
-
-# Visualisation
 matplotlib
 seaborn
 plotly
 
 # Modélisation
 scikit-learn
-#xgboost
-tensorflow
 keras
 
 # Séries temporelles
@@ -35,3 +27,10 @@ dash
 
 # Divers
 tqdm
+streamlit==1.32.2
+tensorflow==2.15.0
+xgboost==1.6.2
+scikit-learn==1.1.3
+numpy==1.23.5
+pandas==1.5.3
+keras-tuner==1.4.6
